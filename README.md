@@ -1,60 +1,95 @@
-# Explainability-for-Large-Language-Models: A Survey
+# A Survey of Federated Unlearning: A Taxonomy, Challenges and Future Directions
 
-> 📖 Papers and resources related to our survey(["Explainability for Large Language Models: A Survey"](https://arxiv.org/abs/2309.01029)) are organized by the structure of the paper.
+> 📖 Papers and resources related to our survey(["A Survey of Federated Unlearning: A Taxonomy, Challenges and Future Directions"](https://arxiv.org/abs/)) are organized by the structure of the paper.
 
-> 📧 Please feel free to reach out if you spot any mistake. We also highly value suggestions to improve our work, please don't hesitate to ping us at: hz54@njit.edu.
+> 📧 Please feel free to reach out if you spot any mistake. We also highly value suggestions to improve our work, please don't hesitate to send me email (abbottyanginchina@gmail.com) or my co-author Yang Zhao (xxx@ntu.edu.cn)
 
 ## Table of Contents
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 
-- [Overview](#overview)
-- [Training Paradigms of LLMs](#training-paradigms-of-llms)
-  - [Traditional Fine-Tuning Paradigm](#traditional-fine-tuning-paradigm)
-  - [Prompting Paradigm](#prompting-paradigm)
-- [Explanation for Traditional Fine-Tuning Paradigm](#explanation-for-traditional-fine-tuning-paradigm)
-  - [Local Explanation](#local-explanation)
-    - [Feature Attribution-Based Explanation](#feature-attribution-based-explanation)
-      - [Perturbation-Based Explanation](#perturbation-based-explanation)
-      - [Gradient-Based Explanation](#gradient-based-explanation)
-      - [Surrogate Models](#surrogate-models)
-      - [Decomposition-Based Methods](#decomposition-based-methods)
-    - [Attention-Based Explanation](#attention-based-explanation)
-      - [Visualizations](#visualizations)
-      - [Function-Based methods](#function-based-methods)
-      - [Debate Over Attention](#debate-over-attention)
-    - [Example-Based Explanations](#example-based-explanations)
-      - [Adversarial Example](#adversarial-example)
-      - [Counterfactual Explanation](#counterfactual-explanation)
-    - [Natural Language Explanation](#natural-language-explanation)
-  - [Global Explanation](#global-explanation)
-    - [Probing-Based Explanation](#probing-based-explanation)
-      - [Classifier-Based Probing](#classifier-based-probing)
-      - [Parameter-Free Probing](#parameter-free-probing)
-    - [Neuron Activation Explanation](#neuron-activation-explanation)
-    - [Concept-Based Explanation](#concept-based-explanation)
-  - [Making Use of Explanations](#making-use-of-explanations)
-    - [Debugging Models](#debugging-models)
-    - [Improving Models](#improving-models)
-- [Explanation for Prompting Paradigm](#explanation-for-prompting-paradigm)
-  - [Base Model Explanation](#base-model-explanation)
-    - [Explanations Benefit Model Learning](#explanations-benefit-model-learning)
-    - [Explaining In-context Learning](#explaining-in-context-learning)
-    - [Explaining CoT Prompting](#explaining-cot-prompting)
-  - [Assistant Model Explanation](#assistant-model-explanation)
-    - [Explaining the Role of Fine-tuning](#explaining-the-role-of-fine-tuning)
-    - [Explaining Hallucination and Uncertainty](#explaining-hallucination-and-uncertainty)
-  - [Making Use of Explanations](#making-use-of-explanations-1)
-    - [Improving LLMs](#improving-llms)
-    - [Downstream Applications](#downstream-applications)
-- [Explanation Evaluation](#explanation-evaluation)
-  - [Explanation Evaluations in Traditional Fine-tuning Paradigms](#explanation-evaluations-in-traditional-fine-tuning-paradigms)
-    - [Evaluating plausibility](#evaluating-plausibility)
-    - [Evaluating Faithfulness](#evaluating-faithfulness)
-  - [Evaluation of Explanations in Prompting Paradigms](#evaluation-of-explanations-in-prompting-paradigms)
-    - [Evaluating Plausibility](#evaluating-plausibility)
-    - [Evaluating Faithfulness](#evaluating-faithfulness-1)
+- [A Survey of Federated Unlearning: A Taxonomy, Challenges and Future Directions](#a-survey-of-federated-unlearning-a-taxonomy-challenges-and-future-directions)
+  - [Table of Contents](#table-of-contents)
+  - [Efficiency of Federated Unlearning](#efficiency-of-federated-unlearning)
+    - [Computation Efficiency](#computation-efficiency)
+    - [Storage Efficiency](#storage-efficiency)
+  - [Trustworthy Federated Unlearning](#trustworthy-federated-unlearning)
+    - [Service](#service)
+  - [Trustworthy Federated Unlearning](#trustworthy-federated-unlearning-1)
+    - [Security](#security)
+    - [Privacy](#privacy)
+    - [Verification](#verification)
+  - [Overview](#overview)
+  - [Training Paradigms of LLMs](#training-paradigms-of-llms)
+    - [Traditional Fine-Tuning Paradigm](#traditional-fine-tuning-paradigm)
+    - [Prompting Paradigm](#prompting-paradigm)
+  - [Explanation for Traditional Fine-Tuning Paradigm](#explanation-for-traditional-fine-tuning-paradigm)
+    - [Local Explanation](#local-explanation)
+      - [Feature Attribution-Based Explanation](#feature-attribution-based-explanation)
+        - [Perturbation-Based Explanation](#perturbation-based-explanation)
+        - [Gradient-Based Explanation](#gradient-based-explanation)
+        - [Surrogate Models](#surrogate-models)
+        - [Decomposition-Based Methods](#decomposition-based-methods)
+      - [Attention-Based Explanation](#attention-based-explanation)
+        - [Visualizations](#visualizations)
+        - [Function-Based methods](#function-based-methods)
+        - [Debate Over Attention](#debate-over-attention)
+      - [Example-Based Explanations](#example-based-explanations)
+        - [Adversarial Example](#adversarial-example)
+        - [Counterfactual Explanation](#counterfactual-explanation)
+      - [Natural Language Explanation](#natural-language-explanation)
+    - [Global Explanation](#global-explanation)
+      - [Probing-Based Explanation](#probing-based-explanation)
+        - [Classifier-Based Probing](#classifier-based-probing)
+        - [Parameter-Free Probing](#parameter-free-probing)
+      - [Neuron Activation Explanation](#neuron-activation-explanation)
+      - [Concept-Based Explanation](#concept-based-explanation)
+    - [Making Use of Explanations](#making-use-of-explanations)
+      - [Debugging Models](#debugging-models)
+      - [Improving Models](#improving-models)
+  - [Explanation for Prompting Paradigm](#explanation-for-prompting-paradigm)
+    - [Base Model Explanation](#base-model-explanation)
+      - [Explanations Benefit Model Learning](#explanations-benefit-model-learning)
+      - [Explaining In-context Learning](#explaining-in-context-learning)
+      - [Explaining CoT Prompting](#explaining-cot-prompting)
+    - [Assistant Model Explanation](#assistant-model-explanation)
+      - [Explaining the Role of Fine-tuning](#explaining-the-role-of-fine-tuning)
+      - [Explaining Hallucination and Uncertainty](#explaining-hallucination-and-uncertainty)
+    - [Making Use of Explanations](#making-use-of-explanations-1)
+      - [Improving LLMs](#improving-llms)
+      - [Downstream Applications](#downstream-applications)
+  - [Explanation Evaluation](#explanation-evaluation)
+    - [Explanation Evaluations in Traditional Fine-tuning Paradigms](#explanation-evaluations-in-traditional-fine-tuning-paradigms)
+      - [Evaluating plausibility](#evaluating-plausibility)
+      - [Evaluating Faithfulness](#evaluating-faithfulness)
+    - [Evaluation of Explanations in Prompting Paradigms](#evaluation-of-explanations-in-prompting-paradigms)
+      - [Evaluating Plausibility](#evaluating-plausibility-1)
+      - [Evaluating Faithfulness](#evaluating-faithfulness-1)
+    
 
 <!-- markdown-toc end -->
+
+## Efficiency of Federated Unlearning
+### Computation Efficiency
++ [BFU: Bayesian Federated Unlearning with Parameter Self-Sharing](https://arxiv.org/abs/2006.05929) (Weiqi Wang et al., Asia CCS 2023) [:octocat:](https://github.com/VICO-UoE/DatasetCondensation) [:book:](./citations/wang2023bfu.txt)
++ [Fast Federated Machine Unlearning with Nonlinear Functional Theory](https://openreview.net/pdf?id=6wQKmKiDHw) (Tianshi Che et al., ICML 2023)
+
+### Storage Efficiency
+
+## Trustworthy Federated Unlearning
+### Service
+> Local Explanation focus on understanding how a language model makes a prediction for a specific input instance. 
+
+![Local Explanation for LLMs](./assets/le.png)
+
+## Trustworthy Federated Unlearning
+### Security
+1. **[Visualizing and Understanding Neural Models in NLP](https://aclanthology.org/N16-1082)**. _Jiwei Li et al_. ACL 2016.
+2. **[Understanding Neural Networks through Representation Erasure](http://arxiv.org/abs/1612.08220)**. _Jiwei Li et al_. arXiv 2017.
+
+
+### Privacy
+
+### Verification
 
 
 ## Overview 
