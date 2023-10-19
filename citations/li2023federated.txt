@@ -1,0 +1,6 @@
+@article{li2023federated,
+  title={Federated Unlearning via Active Forgetting},
+  author={Li, Yuyuan and Chen, Chaochao and Zheng, Xiaolin and Zhang, Jiaming},
+  journal={arXiv preprint arXiv:2307.03363},
+  year={2023}
+}

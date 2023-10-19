@@ -1,0 +1,5 @@
+@article{che2023fast,
+  title={Fast Federated Machine Unlearning with Nonlinear Functional Theory},
+  author={Che, Tianshi and Zhou, Yang and Zhang, Zijie and Lyu, Lingjuan and Liu, Ji and Yan, Da and Dou, Dejing and Huan, Jun},
+  year={2023}
+}

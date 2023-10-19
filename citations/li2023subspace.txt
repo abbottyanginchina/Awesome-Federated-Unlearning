@@ -1,0 +1,6 @@
+@article{li2023subspace,
+  title={Subspace based Federated Unlearning},
+  author={Li, Guanghao and Shen, Li and Sun, Yan and Hu, Yue and Hu, Han and Tao, Dacheng},
+  journal={arXiv preprint arXiv:2302.12448},
+  year={2023}
+}

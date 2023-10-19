@@ -1,0 +1,7 @@
+@inproceedings{yuan2023federated,
+  title={Federated unlearning for on-device recommendation},
+  author={Yuan, Wei and Yin, Hongzhi and Wu, Fangzhao and Zhang, Shijie and He, Tieke and Wang, Hao},
+  booktitle={Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining},
+  pages={393--401},
+  year={2023}
+}

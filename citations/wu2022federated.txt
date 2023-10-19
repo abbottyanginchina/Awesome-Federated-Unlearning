@@ -1,0 +1,10 @@
+@article{wu2022federated,
+  title={Federated unlearning: Guarantee the right of clients to forget},
+  author={Wu, Leijie and Guo, Song and Wang, Junxiao and Hong, Zicong and Zhang, Jie and Ding, Yaohong},
+  journal={IEEE Network},
+  volume={36},
+  number={5},
+  pages={129--135},
+  year={2022},
+  publisher={IEEE}
+}

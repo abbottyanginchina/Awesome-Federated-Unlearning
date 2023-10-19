@@ -1,0 +1,7 @@
+@inproceedings{zhu2023heterogeneous,
+  title={Heterogeneous federated knowledge graph embedding learning and unlearning},
+  author={Zhu, Xiangrong and Li, Guangyao and Hu, Wei},
+  booktitle={Proceedings of the ACM Web Conference 2023},
+  pages={2444--2454},
+  year={2023}
+}

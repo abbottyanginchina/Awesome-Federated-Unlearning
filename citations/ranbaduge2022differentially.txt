@@ -1,0 +1,6 @@
+@article{ranbaduge2022differentially,
+  title={Differentially Private Vertical Federated Learning},
+  author={Ranbaduge, Thilina and Ding, Ming},
+  journal={arXiv preprint arXiv:2211.06782},
+  year={2022}
+}

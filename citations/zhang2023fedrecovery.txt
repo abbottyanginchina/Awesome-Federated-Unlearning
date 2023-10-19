@@ -1,0 +1,7 @@
+@article{zhang2023fedrecovery,
+  title={FedRecovery: Differentially Private Machine Unlearning for Federated Learning Frameworks},
+  author={Zhang, Lefeng and Zhu, Tianqing and Zhang, Haibin and Xiong, Ping and Zhou, Wanlei},
+  journal={IEEE Transactions on Information Forensics and Security},
+  year={2023},
+  publisher={IEEE}
+}

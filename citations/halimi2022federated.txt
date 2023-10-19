@@ -1,0 +1,6 @@
+@article{halimi2022federated,
+  title={Federated unlearning: How to efficiently erase a client in fl?},
+  author={Halimi, Anisa and Kadhe, Swanand and Rawat, Ambrish and Baracaldo, Nathalie},
+  journal={arXiv preprint arXiv:2207.05521},
+  year={2022}
+}

@@ -1,0 +1,6 @@
+@inproceedings{wu2023unlearning,
+  title={Unlearning Backdoor Attacks in Federated Learning},
+  author={Wu, Chen and Zhu, Sencun and Mitra, Prasenjit},
+  booktitle={ICLR 2023 Workshop on Backdoor Attacks and Defenses in Machine Learning},
+  year={2023}
+}

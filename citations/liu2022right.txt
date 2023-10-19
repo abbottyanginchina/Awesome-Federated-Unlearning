@@ -1,0 +1,8 @@
+@inproceedings{liu2022right,
+  title={The right to be forgotten in federated learning: An efficient realization with rapid retraining},
+  author={Liu, Yi and Xu, Lei and Yuan, Xingliang and Wang, Cong and Li, Bo},
+  booktitle={IEEE INFOCOM 2022-IEEE Conference on Computer Communications},
+  pages={1749--1758},
+  year={2022},
+  organization={IEEE}
+}

@@ -1,0 +1,8 @@
+@inproceedings{su2023asynchronous,
+  title={Asynchronous Federated Unlearning},
+  author={Su, Ningxin and Li, Baochun},
+  booktitle={IEEE INFOCOM 2023-IEEE Conference on Computer Communications},
+  pages={1--10},
+  year={2023},
+  organization={IEEE}
+}

@@ -1,0 +1,6 @@
+@article{ding2023incentive,
+  title={Incentive Mechanism Design for Federated Learning and Unlearning},
+  author={Ding, Ningning and Sun, Zhenyu and Wei, Ermin and Berry, Randall},
+  journal={arXiv preprint arXiv:2308.12502},
+  year={2023}
+}

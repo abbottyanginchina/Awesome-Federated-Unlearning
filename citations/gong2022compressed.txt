@@ -1,0 +1,10 @@
+@article{gong2022compressed,
+  title={Compressed particle-based federated bayesian learning and unlearning},
+  author={Gong, Jinu and Simeone, Osvaldo and Kang, Joonhyuk},
+  journal={IEEE Communications Letters},
+  volume={27},
+  number={2},
+  pages={556--560},
+  year={2022},
+  publisher={IEEE}
+}

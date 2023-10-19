@@ -1,0 +1,6 @@
+@article{gao2022verifi,
+  title={Verifi: Towards verifiable federated unlearning},
+  author={Gao, Xiangshan and Ma, Xingjun and Wang, Jingyi and Sun, Youcheng and Li, Bo and Ji, Shouling and Cheng, Peng and Chen, Jiming},
+  journal={arXiv preprint arXiv:2205.12709},
+  year={2022}
+}

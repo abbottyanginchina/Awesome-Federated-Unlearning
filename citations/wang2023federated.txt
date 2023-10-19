@@ -1,0 +1,7 @@
+@article{wang2023federated,
+  title={Federated Unlearning and Its Privacy Threats},
+  author={Wang, Fei and Li, Baochun and Li, Bo},
+  journal={IEEE Network},
+  year={2023},
+  publisher={IEEE}
+}

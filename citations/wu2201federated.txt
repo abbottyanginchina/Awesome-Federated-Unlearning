@@ -1,0 +1,5 @@
+@article{wu2201federated,
+  title={Federated Unlearning with Knowledge Distillation. arXiv 2022},
+  author={Wu, C and Zhu, S and Mitra, P},
+  journal={arXiv preprint arXiv:2201.09441}
+}

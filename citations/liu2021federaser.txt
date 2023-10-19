@@ -1,0 +1,8 @@
+@inproceedings{liu2021federaser,
+  title={Federaser: Enabling efficient client-level data removal from federated learning models},
+  author={Liu, Gaoyang and Ma, Xiaoqiang and Yang, Yang and Wang, Chen and Liu, Jiangchuan},
+  booktitle={2021 IEEE/ACM 29th International Symposium on Quality of Service (IWQOS)},
+  pages={1--10},
+  year={2021},
+  organization={IEEE}
+}

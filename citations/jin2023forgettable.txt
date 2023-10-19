@@ -1,0 +1,6 @@
+@article{jin2023forgettable,
+  title={Forgettable Federated Linear Learning with Certified Data Removal},
+  author={Jin, Ruinan and Chen, Minghui and Zhang, Qiong and Li, Xiaoxiao},
+  journal={arXiv preprint arXiv:2306.02216},
+  year={2023}
+}

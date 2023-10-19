@@ -1,0 +1,6 @@
+@article{alam2023get,
+  title={Get Rid Of Your Trail: Remotely Erasing Backdoors in Federated Learning},
+  author={Alam, Manaar and Lamri, Hithem and Maniatakos, Michail},
+  journal={arXiv preprint arXiv:2304.10638},
+  year={2023}
+}

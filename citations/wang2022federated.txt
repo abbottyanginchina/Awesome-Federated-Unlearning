@@ -1,0 +1,7 @@
+@inproceedings{wang2022federated,
+  title={Federated unlearning via class-discriminative pruning},
+  author={Wang, Junxiao and Guo, Song and Xie, Xin and Qi, Heng},
+  booktitle={Proceedings of the ACM Web Conference 2022},
+  pages={622--632},
+  year={2022}
+}

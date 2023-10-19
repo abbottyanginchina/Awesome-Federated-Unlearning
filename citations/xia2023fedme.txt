@@ -1,0 +1,7 @@
+@article{xia2023fedme,
+  title={FedME 2: Memory Evaluation \& Erase Promoting Federated Unlearning in DTMN},
+  author={Xia, Hui and Xu, Shuo and Pei, Jiaming and Zhang, Rui and Yu, Zhi and Zou, Weitao and Wang, Lukun and Liu, Chao},
+  journal={IEEE Journal on Selected Areas in Communications},
+  year={2023},
+  publisher={IEEE}
+}
