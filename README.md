@@ -2,12 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/abbottyanginchina/Awesome-Federated-Unlearning)
 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> 
-<!-- ![Stars](https://img.shields.io/github/stars/abbottyanginchina/Awesome-Federated-Unlearning/?color=yellow&label=Stars) 
-![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks) -->
-<!-- <img src="https://img.shields.io/badge/Number%20of%20Papers-95-FF6F00" alt="PaperNum"/>  -->
 
-
-<!-- > 📖 Papers and resources related to our survey(["A Survey of Federated Unlearning: A Taxonomy, Challenges and Future Directions"](https://arxiv.org/abs/)) are organized by the structure of the paper. -->
 > 📖 Our survey paper of Federated Unlearning is coming !!
 
 > 📧 Feel free to contact us if you come across any errors. We greatly appreciate any suggestions to enhance our work, so please don't hesitate to send me (<a href="https://abbottyanginchina.github.io">Jiaxi Yang</a>) email at _abbottyanginchina@gmail.com_ or my partner <a href="https://scholar.google.com/citations?user=JEG76EoAAAAJ&hl=zh-CN&oi=sra">Yang Zhao</a> at _s180049@e.ntu.edu.sg_
@@ -106,22 +101,6 @@ Unlearning in Decentralized Networks](https://arxiv.org/pdf/2104.03834.pdf) (Jin
 
 
 ## Citing Awesome-Federated-Unlearning
-
-<!-- If you find this project useful for your research, please use the following BibTeX entry. -->
-
 Our survey paper is coming.
 
-<!-- ```
-@misc{li2022awesome,
-  author={},
-  title={Awesome-Federated-Unlearning},
-  howpublished={\url{https://github.com/abbottyanginchina/Awesome-Federated-Unlearning}},
-  year={2023}
-} 
-``` -->
 
-
-
-
-<!-- ## Acknowledgments -->
-<!-- We want to thank [Nikolaos Tsilivis](https://github.com/Tsili42), [Wei Jin](https://github.com/ChandlerBang) for their valuable suggestions and contributions. --> 
