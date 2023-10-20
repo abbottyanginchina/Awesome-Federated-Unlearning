@@ -26,7 +26,7 @@
 
 
 ## Overview
-**Federated Unlearning (FL)** addresses a federated learning scenario where clients collaborate to train and maintain a global model using a federated learning server. However, there may be situations which the target clients ask the aggregation server in federated learning to remove specific privacy-sensitive or illegal data contributions from the global model to safeguard privacy or mitigate legal risks. In response, the aggregation server should transform the model into an updated version that operates as if the erased data never took part in federated learning training. The framework of federated unlearning can be divided into three categories: _Class-level FU_, _Sample-level FU_, and _Client-level FU_.
+**Federated Unlearning (FU)** addresses a federated learning scenario where clients collaborate to train and maintain a global model using a federated learning server. However, there may be situations which the target clients ask the aggregation server in federated learning to remove specific privacy-sensitive or illegal data contributions from the global model to safeguard privacy or mitigate legal risks. In response, the aggregation server should transform the model into an updated version that operates as if the erased data never took part in federated learning training. The framework of federated unlearning can be divided into three categories: _Class-level FU_, _Sample-level FU_, and _Client-level FU_.
 
 ![Paper Structure](./assets/FU.png)
 
