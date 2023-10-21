@@ -84,6 +84,7 @@ Unlearning in Decentralized Networks](https://arxiv.org/pdf/2104.03834.pdf) (Jin
 
 ### Unlearning Guarantees
 + [Sequential Informed Federated Unlearning: Efficient and Provable Client Unlearning in Federated Optimization](https://arxiv.org/pdf/2211.11656.pdf) (Yann Fraboni et al., Arxiv 2023) [:book:](./citations/fraboni2022sequential.txt)
++ [FedME2: Memory Evaluation & Erase Promoting Federated Unlearning in DTMN](https://ieeexplore.ieee.org/abstract/document/10234397) (Hui Xia et al., JSAC, 2023) [:book:](./citations/xia2023fedme.txt)
 + [VERIFI: Towards Verifiable Federated Unlearning](https://arxiv.org/pdf/2205.12709.pdf) (Xiangshan Gao et al., Arxiv 2022) [:book:](./citations/gao2022verifi.txt)
 + [Federated Unlearning: How to Efficiently Erase a Client in FL?](https://arxiv.org/pdf/2207.05521.pdf) (Anisa Halimi et al., Arxiv 2022) [:book:](./citations/halimi2022federated.txt)
 
@@ -92,6 +93,7 @@ Unlearning in Decentralized Networks](https://arxiv.org/pdf/2104.03834.pdf) (Jin
 
 ### Scalability
 + [Sequential Informed Federated Unlearning: Efficient and Provable Client Unlearning in Federated Optimization](https://arxiv.org/pdf/2211.11656.pdf) (Yann Fraboni et al., Arxiv 2023) [:book:](./citations/fraboni2022sequential.txt)
++ [FedME2: Memory Evaluation & Erase Promoting Federated Unlearning in DTMN](https://ieeexplore.ieee.org/abstract/document/10234397) (Hui Xia et al., JSAC, 2023) [:book:](./citations/xia2023fedme.txt)
 
 ### Applications
 + [Federated Unlearning for On-Device Recommendation](https://arxiv.org/pdf/2210.10958.pdf) (Wei Yuan et al., WSDM 2023) [:book:](./citations/yuan2023federated.txt)
