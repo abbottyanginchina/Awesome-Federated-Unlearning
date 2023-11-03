@@ -3,7 +3,8 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/abbottyanginchina/Awesome-Federated-Unlearning)
 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> 
 
-> 📖 Our survey paper of Federated Unlearning is coming !!
+> 📖 This project is related to our survey paper: 
+<a>A Survey of Federated Unlearning: A Taxonomy, Challenges and Future Directions</a>
 
 > 📧 Feel free to contact us if you come across any errors. We greatly appreciate any suggestions or new papers of FU to enhance our work, so please don't hesitate to send me (<a href="https://abbottyanginchina.github.io">Jiaxi Yang</a>) email at _abbottyanginchina@gmail.com_ or my partner <a href="https://scholar.google.com/citations?user=JEG76EoAAAAJ&hl=zh-CN&oi=sra">Yang Zhao</a> at _s180049@e.ntu.edu.sg_
 
@@ -22,7 +23,7 @@
     - [Incentive Mechanism](#incentive-mechanism)
     - [Scalability](#scalability)
     - [Applications](#applications)
-  - [Citing Awesome-Federated-Unlearning](#citing-awesome-federated-unlearning)
+  - [Citation](#citation)
 
 
 ## Overview
@@ -100,7 +101,16 @@ Unlearning in Decentralized Networks](https://arxiv.org/pdf/2104.03834.pdf) (Jin
 + [FedME2: Memory Evaluation & Erase Promoting Federated Unlearning in DTMN](https://ieeexplore.ieee.org/abstract/document/10234397) (Hui Xia et al., JSAC, 2023) [:book:](./citations/xia2023fedme.txt)
 
 
-## Citing Awesome-Federated-Unlearning
-Our survey paper is coming.
-
+## Citation
+If you find this project useful for your research, please use the following BibTeX entry.
+```
+@misc{yang2023survey,
+      title={A Survey of Federated Unlearning: A Taxonomy, Challenges and Future Directions}, 
+      author={Jiaxi Yang and Yang Zhao},
+      year={2023},
+      eprint={2310.19218},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
 
