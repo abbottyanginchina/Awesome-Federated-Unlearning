@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> 
 
 > 📖 This project is related to our survey paper: 
-<a>A Survey of Federated Unlearning: A Taxonomy, Challenges and Future Directions</a>
+<a href="https://arxiv.org/pdf/2310.19218.pdf">A Survey of Federated Unlearning: A Taxonomy, Challenges and Future Directions</a>
 
 > 📧 Feel free to contact us if you come across any errors. We greatly appreciate any suggestions or new papers of FU to enhance our work, so please don't hesitate to send me (<a href="https://abbottyanginchina.github.io">Jiaxi Yang</a>) email at _abbottyanginchina@gmail.com_ or my partner <a href="https://scholar.google.com/citations?user=JEG76EoAAAAJ&hl=zh-CN&oi=sra">Yang Zhao</a> at _s180049@e.ntu.edu.sg_
 
