@@ -104,13 +104,11 @@ Unlearning in Decentralized Networks](https://arxiv.org/pdf/2104.03834.pdf) (Jin
 ## Citation
 If you find this project useful for your research, please use the following BibTeX entry.
 ```
-@misc{yang2023survey,
-      title={A Survey of Federated Unlearning: A Taxonomy, Challenges and Future Directions}, 
-      author={Jiaxi Yang and Yang Zhao},
-      year={2023},
-      eprint={2310.19218},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@article{yang2023survey,
+  title={A Survey of Federated Unlearning: A Taxonomy, Challenges and Future Directions},
+  author={Yang, Jiaxi and Zhao, Yang},
+  journal={arXiv preprint arXiv:2310.19218},
+  year={2023}
 }
 ```
 
