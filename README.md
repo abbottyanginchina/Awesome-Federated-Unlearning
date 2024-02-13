@@ -12,9 +12,21 @@
 ## News
 - Our open source code library of FU named _OpenFU_ is coming !!!
 
+## Citation
+If you find this project useful for your research, please use the following BibTeX entry.
+```
+@article{yang2023survey,
+  title={A Survey of Federated Unlearning: A Taxonomy, Challenges and Future Directions},
+  author={Zhao, Yang, Yang, Jiaxi, Yiling Tao, Lixu Wang, Xiaoxiao Li and Dusit Niyato},
+  journal={arXiv preprint arXiv:2310.19218},
+  year={2023}
+}
+```
+
 ## Table of Contents
 - [A Survey of Federated Unlearning: A Taxonomy, Challenges and Future Directions](#a-survey-of-federated-unlearning-a-taxonomy-challenges-and-future-directions)
   - [News](#news)
+  - [Citation](#citation)
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Taxonomy of Federated Unlearning](#taxonomy-of-federated-unlearning)
@@ -27,7 +39,6 @@
     - [Communication Efficiency (P6)](#communication-efficiency-p6)
     - [Incentive Mechanism (P7)](#incentive-mechanism-p7)
     - [Applications](#applications)
-  - [Citation](#citation)
 
 
 ## Overview
@@ -151,14 +162,5 @@ Certified Data Removal](https://arxiv.org/pdf/2306.02216.pdf) (Ruinan Jin et al.
 + [How to Forget Clients in Federated Online Learning to Rank?](https://arxiv.org/pdf/2401.13410) (Shuyi Wang et al., ECIR 2023) [:book:](./citations/wang2024forget.txt)
 
 
-## Citation
-If you find this project useful for your research, please use the following BibTeX entry.
-```
-@article{yang2023survey,
-  title={A Survey of Federated Unlearning: A Taxonomy, Challenges and Future Directions},
-  author={Zhao, Yang, Yang, Jiaxi, Yiling Tao, Lixu Wang, Xiaoxiao Li and Dusit Niyato},
-  journal={arXiv preprint arXiv:2310.19218},
-  year={2023}
-}
-```
+
 
