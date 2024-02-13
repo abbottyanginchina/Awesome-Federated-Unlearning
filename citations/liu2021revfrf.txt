@@ -1,0 +1,10 @@
+@article{liu2021revfrf,
+  title={Revfrf: Enabling cross-domain random forest training with revocable federated learning},
+  author={Liu, Yang and Ma, Zhuo and Yang, Yilong and Liu, Ximeng and Ma, Jianfeng and Ren, Kui},
+  journal={IEEE Transactions on Dependable and Secure Computing},
+  volume={19},
+  number={6},
+  pages={3671--3685},
+  year={2021},
+  publisher={IEEE}
+}

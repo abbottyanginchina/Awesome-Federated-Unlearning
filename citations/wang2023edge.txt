@@ -1,0 +1,7 @@
+@article{wang2023edge,
+  title={Edge Caching with Federated Unlearning for Low-latency V2X Communications},
+  author={Wang, Pengfei and Yan, Zhaohong and Obaidat, Mohammad S and Yuan, Zhiwei and Yang, Leyou and Zhang, Junxiang and Wei, Zongzheng and Zhang, Qiang},
+  journal={IEEE Communications Magazine},
+  year={2023},
+  publisher={IEEE}
+}

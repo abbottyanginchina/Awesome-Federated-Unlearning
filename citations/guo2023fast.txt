@@ -1,0 +1,7 @@
+@article{guo2023fast,
+  title={FAST: Adopting Federated Unlearning to Eliminating Malicious Terminals at Server Side},
+  author={Guo, Xintong and Wang, Pengfei and Qiu, Sen and Song, Wei and Zhang, Qiang and Wei, Xiaopeng and Zhou, Dongsheng},
+  journal={IEEE Transactions on Network Science and Engineering},
+  year={2023},
+  publisher={IEEE}
+}

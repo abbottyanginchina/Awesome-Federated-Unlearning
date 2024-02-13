@@ -1,0 +1,7 @@
+@article{zhao2023federated,
+  title={Federated Unlearning With Momentum Degradation},
+  author={Zhao, Yian and Wang, Pengfei and Qi, Heng and Huang, Jianguo and Wei, Zongzheng and Zhang, Qiang},
+  journal={IEEE Internet of Things Journal},
+  year={2023},
+  publisher={IEEE}
+}

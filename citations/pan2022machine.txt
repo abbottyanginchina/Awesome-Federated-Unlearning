@@ -1,0 +1,6 @@
+@article{pan2022machine,
+  title={Machine Unlearning of Federated Clusters},
+  author={Pan, Chao and Sima, Jin and Prakash, Saurav and Rana, Vishal and Milenkovic, Olgica},
+  journal={arXiv preprint arXiv:2210.16424},
+  year={2022}
+}
