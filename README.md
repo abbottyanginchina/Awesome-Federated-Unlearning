@@ -102,24 +102,26 @@ Certified Data Removal](https://arxiv.org/pdf/2306.02216.pdf) (Ruinan Jin et al.
 + [Scalable Federated Unlearning via Isolated and Coded Sharding](https://arxiv.org/pdf/2401.15957.pdf) (Yiling Lin et al., Arxiv 2024) [:book:](./citations/lin2024scalable.txt)
 + [QuickDrop: Efficient Federated Unlearning by Integrated Dataset Distillation](https://arxiv.org/pdf/2311.15603.pdf) (Akash Dhasade et al., Arxiv 2023) [:book:](./citations/dhasade2023quickdrop.txt)
 + [Exact-fun: An exact and efficient federated unlearning approach](https://zuobinxiong.github.io/assets/pdf/ExactFedUnlearning.pdf) (Zuobin Xiong et al., ICDM 2023) [:book:](./citations/xiong2023exact.txt)
-+ []() ( et al., Journal 2023) [:book:](./citations/.txt)
-+ []() ( et al., Journal 2023) [:book:](./citations/.txt)
 
 ### Storage Efficiency (P5)
 + [Federated Unlearning for On-Device Recommendation](https://arxiv.org/pdf/2210.10958.pdf) (Wei Yuan et al., WSDM 2023) [:book:](./citations/yuan2023federated.txt)
 + [Subspace based Federated Unlearning](https://arxiv.org/pdf/2302.12448.pdf) (Li Guanghao et al., Arxiv 2023) [:book:](./citations/li2023subspace.txt)
 + [The Right to be Forgotten in Federated Learning: An Efficient Realization with Rapid Retraining](https://arxiv.org/pdf/2203.07320.pdf) (Liu Yi et al., INFOCOM 2022) [:book:](./citations/liu2022right.txt)
 + [FedEraser: Enabling Efficient Client-Level Data Removal from Federated Learning Models](https://ieeexplore.ieee.org/abstract/document/9521274) (Gaoyang Liu et al., IWQOS 2021) [:book:](./citations/liu2021federaser.txt)
++ []() ( et al., Journal 2023) [:book:](./citations/.txt)
++ []() ( et al., Journal 2023) [:book:](./citations/.txt)
 
 ### Communication Efficiency (P6)
 + [Compressed Particle-Based Federated Bayesian Learning and Unlearning](https://arxiv.org/pdf/2209.07267.pdf) (Jinu Gong et al., IEEE Communications Letters 2022) [:book:](./citations/gong2022compressed.txt)
 + [Bayesian Variational Federated Learning and
 Unlearning in Decentralized Networks](https://arxiv.org/pdf/2104.03834.pdf) (Jinu Gong et al.,  SPAWC 2021) [:book:](./citations/gong2021bayesian.txt)
++ []() ( et al., Journal 2023) [:book:](./citations/.txt)
++ []() ( et al., Journal 2023) [:book:](./citations/.txt)
 
 ### Incentive Mechanism (P7)
 + [Incentive Mechanism Design for Federated Learning and Unlearning](https://arxiv.org/pdf/2308.12502.pdf) (Ningning Ding et al., Arxiv 2023) [:book:](./citations/ding2023incentive.txt)
 
-### Privacy
+<!-- ### Privacy
 + [Federated Unlearning and Its Privacy Threats](https://ieeexplore.ieee.org/abstract/document/10148937) (Fei Wang et al., IEEE Network 2023) [:book:](./citations/wang2023federated.txt)
 + [FedRecovery: Differentially Private Machine Unlearning for Federated Learning Frameworks](https://ieeexplore.ieee.org/abstract/document/10189868/) (Lefeng Zhang et al., TIFS 2023) [:book:](./citations/zhang2023fedrecovery.txt)
 + [Subspace based Federated Unlearning](https://arxiv.org/pdf/2302.12448.pdf) (Li Guanghao et al., Arxiv 2023) [:book:](./citations/li2023subspace.txt)
@@ -133,7 +135,7 @@ Unlearning in Decentralized Networks](https://arxiv.org/pdf/2104.03834.pdf) (Jin
 + [Sequential Informed Federated Unlearning: Efficient and Provable Client Unlearning in Federated Optimization](https://arxiv.org/pdf/2211.11656.pdf) (Yann Fraboni et al., Arxiv 2023) [:book:](./citations/fraboni2022sequential.txt)
 + [FedME2: Memory Evaluation & Erase Promoting Federated Unlearning in DTMN](https://ieeexplore.ieee.org/abstract/document/10234397) (Hui Xia et al., JSAC, 2023) [:book:](./citations/xia2023fedme.txt)
 + [VERIFI: Towards Verifiable Federated Unlearning](https://arxiv.org/pdf/2205.12709.pdf) (Xiangshan Gao et al., Arxiv 2022) [:book:](./citations/gao2022verifi.txt)
-+ [Federated Unlearning: How to Efficiently Erase a Client in FL?](https://arxiv.org/pdf/2207.05521.pdf) (Anisa Halimi et al., Arxiv 2022) [:book:](./citations/halimi2022federated.txt)
++ [Federated Unlearning: How to Efficiently Erase a Client in FL?](https://arxiv.org/pdf/2207.05521.pdf) (Anisa Halimi et al., Arxiv 2022) [:book:](./citations/halimi2022federated.txt) -->
 
 ### Scalability
 + [Sequential Informed Federated Unlearning: Efficient and Provable Client Unlearning in Federated Optimization](https://arxiv.org/pdf/2211.11656.pdf) (Yann Fraboni et al., Arxiv 2023) [:book:](./citations/fraboni2022sequential.txt)
