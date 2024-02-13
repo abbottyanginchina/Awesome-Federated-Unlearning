@@ -35,7 +35,7 @@
 We outline several key objectives that are required for federated unlearning.
 
 <div style="text-align:center; width:100%">
-    <img src="./assets/category.png" width="400">
+    <img src="./assets/roadmap.png" width="400">
 </div>
 
 
