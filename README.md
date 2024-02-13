@@ -6,7 +6,11 @@
 > 📖 This project is related to our survey paper: 
 <a href="https://arxiv.org/pdf/2310.19218.pdf">A Survey of Federated Unlearning: A Taxonomy, Challenges and Future Directions</a>
 
-> 📧 Feel free to contact us if you come across any errors. We greatly appreciate any suggestions or new papers of FU to enhance our work, so please don't hesitate to send me (<a href="https://abbottyanginchina.github.io">Jiaxi Yang</a>) email at _abbottyanginchina@gmail.com_ or my partner <a href="https://scholar.google.com/citations?user=JEG76EoAAAAJ&hl=zh-CN&oi=sra">Yang Zhao</a> at _s180049@e.ntu.edu.sg_
+> 📧 Feel free to contact us if you come across any errors. We greatly appreciate any suggestions or new papers of FU to enhance our work, so please don't hesitate to send me (<a href="https://abbottyanginchina.github.io">Jiaxi Yang</a>) email at _abbottyanginchina@gmail.com_ or my partner <a href="https://scholar.google.com/citations?user=JEG76EoAAAAJ&hl=zh-CN&oi=sra">Yang Zhao</a> at _s180049@e.ntu.edu.sg_. 
+<!-- In addition, you also can add my wechat: _15179190156_. -->
+
+## News
+- Our open source code library of FU named _OpenFU_ is coming !!!
 
 ## Table of Contents
 - [A Survey of Federated Unlearning: A Taxonomy, Challenges and Future Directions](#a-survey-of-federated-unlearning-a-taxonomy-challenges-and-future-directions)
@@ -88,9 +92,18 @@ Certified Data Removal](https://arxiv.org/pdf/2306.02216.pdf) (Ruinan Jin et al.
 + [Federated unlearning via class-discriminative pruning](https://arxiv.org/pdf/2110.11794.pdf) (Junxiao Wang et al., WWW 2022) [:book:](./citations/wang2022federated.txt)
 + [Federated Unlearning](https://arxiv.org/pdf/2012.13891.pdf) (Gaoyang Liu et al., Arxiv 2021) [:book:](./citations/liu2020federated.txt)
 + [FedEraser: Enabling Efficient Client-Level Data Removal from Federated Learning Models](https://ieeexplore.ieee.org/abstract/document/9521274) (Gaoyang Liu et al., IWQOS 2021) [:book:](./citations/liu2021federaser.txt)
++ [Federated Unlearning for On-Device Recommendation](https://arxiv.org/pdf/2210.10958.pdf) (Wei Yuan et al., WSDM 2023) [:book:](./citations/yuan2023federated.txt)
++ [VERIFI: Towards Verifiable Federated Unlearning](https://arxiv.org/pdf/2205.12709.pdf) (Xiangshan Gao et al., Arxiv 2022) [:book:](./citations/gao2022verifi.txt)
++ [Fast: Adopting federated unlearning to eliminating malicious terminals at server side](https://ieeexplore.ieee.org/abstract/document/10360312) (Guo Xintong et al., TNSE 2023) [:book:](./citations/guo2023fast.txt)
++ [Machine Unlearning of Federated Clusters](https://arxiv.org/pdf/2210.16424.pdf) (Pan et al., ICLR 2023) [:book:](./citations/pan2022machine.txt)
++ [How to Forget Clients in Federated Online Learning to Rank?](https://arxiv.org/pdf/2401.13410) (Shuyi Wang et al., ECIR 2023) [:book:](./citations/wang2024forget.txt)
++ [Federated Unlearning With Momentum Degradation](https://ieeexplore.ieee.org/abstract/document/10269017/) (Yian Zhao et al., IoT Journal 2023) [:book:](./citations/zhao2023federated.txt)
++ [Blockchain-enabled Trustworthy Federated Unlearning](https://arxiv.org/pdf/2401.15917.pdf) (Yiling Lin et al., Arxiv 2024) [:book:](./citations/zhao2023federated.txt)
++ [Scalable Federated Unlearning via Isolated and Coded Sharding](https://arxiv.org/pdf/2401.15957.pdf) (Yiling Lin et al., Arxiv 2024) [:book:](./citations/lin2024scalable.txt)
++ [QuickDrop: Efficient Federated Unlearning by Integrated Dataset Distillation](https://arxiv.org/pdf/2311.15603.pdf) (Akash Dhasade et al., Arxiv 2023) [:book:](./citations/dhasade2023quickdrop.txt)
++ [Exact-fun: An exact and efficient federated unlearning approach](https://zuobinxiong.github.io/assets/pdf/ExactFedUnlearning.pdf) (Zuobin Xiong et al., ICDM 2023) [:book:](./citations/xiong2023exact.txt)
 + []() ( et al., Journal 2023) [:book:](./citations/.txt)
-
-
++ []() ( et al., Journal 2023) [:book:](./citations/.txt)
 
 ### Storage Efficiency (P5)
 + [Federated Unlearning for On-Device Recommendation](https://arxiv.org/pdf/2210.10958.pdf) (Wei Yuan et al., WSDM 2023) [:book:](./citations/yuan2023federated.txt)
@@ -101,7 +114,7 @@ Certified Data Removal](https://arxiv.org/pdf/2306.02216.pdf) (Ruinan Jin et al.
 ### Communication Efficiency (P6)
 + [Compressed Particle-Based Federated Bayesian Learning and Unlearning](https://arxiv.org/pdf/2209.07267.pdf) (Jinu Gong et al., IEEE Communications Letters 2022) [:book:](./citations/gong2022compressed.txt)
 + [Bayesian Variational Federated Learning and
-Unlearning in Decentralized Networks](https://arxiv.org/pdf/2104.03834.pdf) (Jinu Gong et al.,  SPAWC 2021) [:book:]()
+Unlearning in Decentralized Networks](https://arxiv.org/pdf/2104.03834.pdf) (Jinu Gong et al.,  SPAWC 2021) [:book:](./citations/gong2021bayesian.txt)
 
 ### Incentive Mechanism (P7)
 + [Incentive Mechanism Design for Federated Learning and Unlearning](https://arxiv.org/pdf/2308.12502.pdf) (Ningning Ding et al., Arxiv 2023) [:book:](./citations/ding2023incentive.txt)

@@ -1,0 +1,8 @@
+@inproceedings{gong2021bayesian,
+  title={Bayesian variational federated learning and unlearning in decentralized networks},
+  author={Gong, Jinu and Simeone, Osvaldo and Kang, Joonhyuk},
+  booktitle={2021 IEEE 22nd International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)},
+  pages={216--220},
+  year={2021},
+  organization={IEEE}
+}

@@ -1,0 +1,6 @@
+@article{lin2024blockchain,
+  title={Blockchain-enabled Trustworthy Federated Unlearning},
+  author={Lin, Yijing and Gao, Zhipeng and Du, Hongyang and Ren, Jinke and Xie, Zhiqiang and Niyato, Dusit},
+  journal={arXiv preprint arXiv:2401.15917},
+  year={2024}
+}

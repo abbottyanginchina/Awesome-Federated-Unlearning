@@ -1,0 +1,6 @@
+@article{dhasade2023quickdrop,
+  title={QuickDrop: Efficient Federated Unlearning by Integrated Dataset Distillation},
+  author={Dhasade, Akash and Ding, Yaohong and Guo, Song and Kermarrec, Anne-marie and De Vos, Martijn and Wu, Leijie},
+  journal={arXiv preprint arXiv:2311.15603},
+  year={2023}
+}

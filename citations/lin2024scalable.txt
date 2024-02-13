@@ -1,0 +1,6 @@
+@article{lin2024scalable,
+  title={Scalable Federated Unlearning via Isolated and Coded Sharding},
+  author={Lin, Yijing and Gao, Zhipeng and Du, Hongyang and Niyato, Dusit and Gui, Gui and Cui, Shuguang and Ren, Jinke},
+  journal={arXiv preprint arXiv:2401.15957},
+  year={2024}
+}

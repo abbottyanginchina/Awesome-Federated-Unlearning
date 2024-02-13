@@ -1,0 +1,8 @@
+@inproceedings{xiong2023exact,
+  title={Exact-Fun: An Exact and Efficient Federated Unlearning Approach},
+  author={Xiong, Zuobin and Li, Wei and Li, Yingshu and Cai, Zhipeng},
+  booktitle={2023 IEEE International Conference on Data Mining (ICDM)},
+  pages={1439--1444},
+  year={2023},
+  organization={IEEE}
+}
